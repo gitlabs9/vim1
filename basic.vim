@@ -1,2 +1,4 @@
 set nocompatible
-filetype plugin on
+set number
+colorscheme pablo
+set cursorline
